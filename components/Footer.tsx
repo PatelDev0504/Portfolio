@@ -1,13 +1,3 @@
-export default function Footer(){
-  return (
-    <footer className="border-t mt-16">
-      <div className="max-w-6xl mx-auto px-6 py-6 text-sm flex justify-between">
-        <div>© 2025 Dev Patel</div>
-        <div className="flex gap-4">
-          <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">GitHub</a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">LinkedIn</a>
-        </div>
-      </div>
-    </footer>
-  )
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:678c2b39fabfff2bea9c22368a3446da9f9fd7176f8709b18b2b3b989d37f955
+size 1091

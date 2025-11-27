@@ -1,12 +1,3 @@
-module.exports = {
-  content: ["./app/**/*.{js,ts,jsx,tsx}", "./pages/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],
-  theme: {
-    extend: {
-      colors: {
-        primary: '#0ea5a4',
-        accent: '#7c3aed'
-      }
-    }
-  },
-  plugins: []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b22f9778e8c7591e0278fbb45258c7381174231f765a79a899d8d09188233a61
+size 585
